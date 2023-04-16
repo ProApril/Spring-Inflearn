@@ -1,0 +1,5 @@
+1. command + n  : 게터 세터 세팅
+
+2. tostring 치면 프린트 찍는 템플릿 나옴
+
+3. opt + enter 자동 임포트
