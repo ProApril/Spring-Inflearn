@@ -3,3 +3,5 @@
 2. tostring 치면 프린트 찍는 템플릿 나옴
 
 3. opt + enter 자동 임포트
+
+4. cmd + shift + t : 테스트 클래스 만들어주는 단축키
